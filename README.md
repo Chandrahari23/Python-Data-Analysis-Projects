@@ -350,17 +350,3 @@ Possible extensions to this project include:
 - Statistical analysis and deeper business insights
 
 ---
-
-## 👤 Author
-
-**Harish**
-
-Mechanical Engineering Graduate | Aspiring Data Analyst
-
-**Skills:** Python | SQL | Excel | Power BI | Tableau | Data Analytics
-
----
-
-## ⭐ Project Purpose
-
-This project was created as part of my **Data Analytics portfolio** to demonstrate practical experience with Python-based data cleaning, transformation, and exploratory analysis.
