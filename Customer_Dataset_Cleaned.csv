@@ -1,0 +1,45 @@
+Order_ID,Customer_Name,City,Product,Category,Quantity,Price,Order_Date,Payment_Mode,Salesperson,Customer_Rating,Total_Price
+1001,Arun Kumar,Chennai,Laptop,Electronics,1,55000.0,9,Cash,Ravi,4.0,55000.0
+1002,Priya Sharma,Chennai,Mouse,Electronics,2,850.0,1,Upi,Meena,5.0,1700.0
+1003,Rahul Verma,Chennai,Keyboard,Electronics,1,1800.0,1,Upi,Ravi,4.0,1800.0
+1004,Divya Raj,Bangalore,Monitor,Electronics,1,12500.0,1,Card,Suresh,3.0,12500.0
+1005,Karthik S,Bangalore,Office Chair,Furniture,2,6500.0,9,Card,Meena,5.0,13000.0
+1006,Unknown,Hyderabad,Desk,Furniture,1,8500.0,1,Cash,Ravi,4.0,8500.0
+1007,Vijay Kumar,Hyderabad,Laptop Stand,Accessories,2,2200.0,9,Cash,Suresh,4.0,4400.0
+1008,Anjali Rao,Mumbai,Webcam,Accessories,1,3200.0,1,Upi,Meena,5.0,3200.0
+1009,Manoj Patel,Mumbai,Headphones,Electronics,1,780.0,9,Upi,Ravi,3.0,780.0
+1010,Asha Nair,Pune,Keyboard,Electronics,2,1750.0,9,Card,Suresh,4.0,3500.0
+1011,Rohit Das,Pune,Monitor,Electronics,1,11800.0,1,Cash,Meena,5.0,11800.0
+1013,Arun Kumar,Chennai,Laptop,Electronics,1,55000.0,9,Cash,Ravi,4.0,55000.0
+1014,Pooja Menon,Kochi,Desk,Furniture,1,7800.0,1,Card,Suresh,5.0,7800.0
+1015,Ramesh B,Kochi,Mouse,Electronics,3,800.0,9,Upi,Meena,4.0,2400.0
+1016,Sanjay Rao,Chennai,Webcam,Accessories,2,3100.0,1,Cash,Ravi,3.0,6200.0
+1018,Ajay Kumar,Delhi,Laptop Stand,Accessories,1,2100.0,1,Upi,Meena,5.0,2100.0
+1019,Meena Krishnan,Hyderabad,Laptop,Electronics,1,56000.0,9,Cash,Ravi,4.0,56000.0
+1020,Varun Shah,Mumbai,Monitor,Electronics,2,12000.0,1,Card,Suresh,3.0,24000.0
+1021,Nithya S,Chennai,Office Chair,Furniture,1,6400.0,9,Upi,Meena,5.0,6400.0
+1023,Keerthi M,Bangalore,Keyboard,Electronics,1,1900.0,9,Upi,Suresh,4.0,1900.0
+1024,Suresh Kumar,Hyderabad,Mouse,Electronics,4,820.0,1,Cash,Meena,5.0,3280.0
+1025,Pavithra R,Pune,Webcam,Accessories,1,3300.0,9,Card,Ravi,4.0,3300.0
+1026,Gokul Raj,Delhi,Headphones,Electronics,2,2750.0,1,Upi,Suresh,3.0,5500.0
+1027,Ishita Sen,Kolkata,Laptop Stand,Accessories,2,2300.0,9,Cash,Meena,5.0,4600.0
+1028,Deepak Singh,Kolkata,Laptop,Electronics,1,54000.0,1,Card,Ravi,4.0,54000.0
+1030,Naveen P,Chennai,Desk,Furniture,1,8000.0,1,Cash,Meena,4.0,8000.0
+1031,Sowmya R,Chennai,Office Chair,Furniture,2,6300.0,9,Upi,Ravi,5.0,12600.0
+1032,Hari Krish,Hyderabad,Keyboard,Electronics,1,1850.0,1,Card,Suresh,4.0,1850.0
+1033,Swathi Rao,Mumbai,Mouse,Electronics,2,900.0,1,Cash,Meena,3.0,1800.0
+1034,Prakash N,Mumbai,Webcam,Accessories,1,3150.0,1,Upi,Ravi,4.0,3150.0
+1036,Mohan Raj,Delhi,Laptop Stand,Accessories,3,2050.0,1,Cash,Meena,4.0,6150.0
+1037,Riya Kapoor,Kolkata,Monitor,Electronics,1,12100.0,9,Upi,Ravi,5.0,12100.0
+1038,Abhishek T,Kolkata,Laptop,Electronics,1,57000.0,1,Card,Suresh,4.0,57000.0
+1039,Farah Khan,Kochi,Desk,Furniture,1,7900.0,9,Cash,Meena,5.0,7900.0
+1040,Naveen P,Chennai,Mouse,Electronics,2,780.0,1,Upi,Ravi,4.0,1560.0
+1041,Divya Raj,Bangalore,Keyboard,Electronics,1,1800.0,9,Card,Suresh,3.0,1800.0
+1042,Siva Kumar,Hyderabad,Office Chair,Furniture,1,6100.0,1,Cash,Meena,4.0,6100.0
+1043,Anita Roy,Delhi,Webcam,Accessories,2,3250.0,9,Upi,Ravi,5.0,6500.0
+1044,Rahul Verma,Chennai,Laptop,Electronics,1,55500.0,1,Card,Suresh,4.0,55500.0
+1045,Priya Sharma,Chennai,Monitor,Electronics,1,12300.0,9,Upi,Meena,5.0,12300.0
+1047,Rohit Das,Pune,Headphones,Electronics,2,2850.0,1,Card,Suresh,3.0,5700.0
+1049,Maya S,Kochi,Mouse,Electronics,2,780.0,9,Cash,Ravi,4.0,1560.0
+1050,Vikram J,Bangalore,Office Chair,Furniture,1,6600.0,1,Card,Suresh,5.0,6600.0
+1010,Rohit Das,Pune,Keyboard,Electronics,2,1750.0,9,Card,Suresh,4.0,3500.0
